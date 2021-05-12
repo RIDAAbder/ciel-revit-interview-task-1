@@ -1,0 +1,18 @@
+{
+  "extensions": [
+    {
+      "builtin": "False",
+      "enable": "False",
+      "type": "extension",
+      "rocket_mode_compatible": "True",
+      "name": "CIEL Revit Interview Task 1",
+      "description": "This is a task for candidate interview",
+      "author": "",
+      "author_profile": "",
+      "url": "https://github.com/ciel-co/ciel-revit-interview-task-1.git",
+      "website": "https://github.com/ciel-co/ciel-revit-interview-task-1",
+      "image": "",
+      "dependencies": []
+    }
+  ]
+}
